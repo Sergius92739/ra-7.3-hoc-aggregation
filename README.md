@@ -2,7 +2,7 @@
 
 # Агрегация данных для таблиц
 
-### Deployment:  <a href="https://sergius92739.github.io/ra-7.2-hoc-highlight/">Github Pages</a>
+### Deployment:  <a href="https://sergius92739.github.io/ra-7.3-hoc-aggregation/">Github Pages</a>
 ---
 Есть набор из трех компонентов, которые выводят табличные данные: 
 - с группировкой по месяцам за текущий год, 
